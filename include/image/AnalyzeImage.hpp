@@ -13,12 +13,12 @@
 
 #define MARGING 7
 
-#define YELLOW sf::Color::Magenta
-#define MAGENTA sf::Color::Cyan
-#define CYAN sf::Color::Yellow
-#define RED sf::Color::Blue
-#define BLUE sf::Color::Green
-#define GREEN sf::Color::Red
+#define YELLOW sf::Color::Yellow
+#define MAGENTA sf::Color::Magenta
+#define CYAN sf::Color::Cyan
+#define RED sf::Color::Red
+#define GREEN sf::Color::Green
+#define BLUE sf::Color::Blue
 
 class AnalyzeImage {
     public:

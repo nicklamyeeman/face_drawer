@@ -89,6 +89,12 @@ And use the `#define + [sf::Color]`to switch colors.
 <img src="assets/results/blueberry.png" alt="BlueBerry">
 <img src="assets/results/whitecastle.png" alt="WhiteCastle">
 
+### BE CAREFUL
+Please close the window normally, don't shut it with CTRL^C if you want to save your image.
+
+
+
+
 <!-- ROADMAP -->
 ## Roadmap
 
