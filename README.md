@@ -29,6 +29,7 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
+* [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [Contact](#contact)
@@ -71,6 +72,22 @@ make
 ```
 
 
+
+<!-- USAGE -->
+## Usage
+
+In the file `include/image/AnalyzeImage.hpp` you have 2 different types of `#define`.
+
+Use the `#define MARGING` to play with the color threshold.
+
+Marging of 2 VS Marging of 20
+<img src="assets/results/marging2.png" alt="Marging2">
+<img src="assets/results/marging20.png" alt="Marging20">
+
+And use the `#define + [sf::Color]`to switch colors.
+
+<img src="assets/results/blueberry.png" alt="BlueBerry">
+<img src="assets/results/whitecastle.png" alt="WhiteCastle">
 
 <!-- ROADMAP -->
 ## Roadmap
