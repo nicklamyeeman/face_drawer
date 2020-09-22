@@ -76,6 +76,9 @@ make
 <!-- USAGE -->
 ## Usage
 
+Original photo :
+<img src="assets/photo_nick.png" alt="Nick">
+
 In the file `include/image/AnalyzeImage.hpp` you have 2 different types of `#define`.
 
 Use the `#define MARGING` to play with the color threshold.
