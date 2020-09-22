@@ -19,7 +19,7 @@ int display_help()
         helpFile.close();
     }
     else {
-        std::cerr << "Unable to display the help menu, please contact the developer : \"https://github.com/nicklamyeeman\"" << std::endl;
+        std::cerr << "Unable to display the help menu, please contact the developer : \"https://github.com/nicklamyeeman/face_drawer/issues\"" << std::endl;
         return (-1);
     }
     return (0);
