@@ -11,7 +11,7 @@
 #include <iostream>
 #include <SFML/Graphics.hpp>
 
-#define MARGING 7
+#define MARGING 8
 
 #define YELLOW sf::Color::Yellow
 #define MAGENTA sf::Color::Magenta

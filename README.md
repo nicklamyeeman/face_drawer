@@ -76,6 +76,12 @@ make
 <!-- USAGE -->
 ## Usage
 
+### Example
+
+```sh
+./face_drawer ./assets/old_nick.jpg ./assets/results/old_nick_generated.jpg
+```
+
 Original photo :
 <img src="assets/photo_nick.png" alt="Nick">
 
