@@ -121,7 +121,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@nickauteen](https://twitter.com/nickauteen) - nick.lam-yee-man@epitech.eu
+Nick LAM YEE MAN - [@nickauteen](https://twitter.com/nickauteen) - nick.lam-yee-man@epitech.eu
 
 Project Link: [https://github.com/nicklamyeeman/face_drawer](https://github.com/nicklamyeeman/face_drawer)
 
