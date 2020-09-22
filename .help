@@ -1,0 +1,6 @@
+USAGE
+    ./face_drawer source_image_path [rendered_image_destination]
+
+DESCRIPTION
+    source_image_path               path of the image file you want to transform
+    [rendered_image_destination]    path where you want to save the transformed image
