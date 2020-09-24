@@ -11,11 +11,11 @@
 #include <iostream>
 #include <SFML/Graphics.hpp>
 
-#define MARGING 8
+#define MARGING 15
 
-#define YELLOW sf::Color::Yellow
+#define YELLOW sf::Color::Cyan
 #define MAGENTA sf::Color::Magenta
-#define CYAN sf::Color::Cyan
+#define CYAN sf::Color::Yellow
 #define RED sf::Color::Red
 #define GREEN sf::Color::Green
 #define BLUE sf::Color::Blue

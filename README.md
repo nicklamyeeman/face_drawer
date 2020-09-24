@@ -83,6 +83,7 @@ make
 ```
 
 Original photo :
+<br/>
 <img src="assets/photo_nick.png" alt="Nick">
 
 In the file `include/image/AnalyzeImage.hpp` you have 2 different types of `#define`.
