@@ -15,7 +15,7 @@ OBJ			=	$(SRC:.cpp=.o)
 
 INC			=	-Iinclude/window -Iinclude/image
 
-CXXFLAGS	=	-W -Wall -Wextra $(INC)
+CXXFLAGS	=	-W -Wall -Wextra -Werror $(INC)
 
 SFMLFLAGS	=	-lsfml-graphics -lsfml-window -lsfml-system
 
