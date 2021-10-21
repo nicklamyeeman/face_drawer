@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/nicklamyeeman/face_drawer">
-    <img src="assets/results/photo_result.png" alt="Logo" width="80" height="80">
+    <img src="assets/results/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">FACE DRAWER</h3>
